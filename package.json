@@ -1,0 +1,9 @@
+{
+  "name": "millidram",
+  "version": "1.0.0",
+  "description": "A minimalist CSS for Markdown documents",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
